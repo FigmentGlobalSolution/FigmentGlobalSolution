@@ -27,6 +27,24 @@ Figment Global Solutions Pvt. Ltd. is a leading fintech firm specializing in tax
 - **ITMS**: Integrated Tax Management Suite
 
 ---
+## 🚀 Mission & Vision
+
+**Mission:**  
+Empower businesses with innovative and reliable tax compliance solutions through a unique blend of finance expertise and technology-driven platforms :contentReference[oaicite:3]{index=3}.
+
+**Vision:**  
+Transform taxation from a source of complexity into a streamlined and delightful experience, while becoming India’s trusted market leader in tech-enabled taxation solutions :contentReference[oaicite:4]{index=4}.
+
+---
+
+## 🎯 Core Values
+
+- **Customer-centric**: Striving for customer delight with tailored, responsive support :contentReference[oaicite:5]{index=5}  
+- **Innovative**: Building proprietary platforms like TaxCPC, NoticeCPC, GSTCPC, 26ASCPC, ITMS, and VenCPC :contentReference[oaicite:6]{index=6}  
+- **Secure & Transparent**: Dedicated to secured data handling, full visibility, and adherence to ethical standards :contentReference[oaicite:7]{index=7}  
+- **Speed & Cost Efficiency**: Streamlining workflows, reducing overhead and processing time for clients :contentReference[oaicite:8]{index=8}  
+
+---
 
 ## 🛠️ Key Highlights
 
@@ -37,6 +55,15 @@ Figment Global Solutions Pvt. Ltd. is a leading fintech firm specializing in tax
 - Offices across Nagpur, Delhi, Mumbai, Chennai, Jaipur
 
 ---
+
+## 🌐 Our Presence
+
+- **Headquarters**: Nagpur, Maharashtra  
+- **Offices in**: Delhi, Mumbai, Chennai, Jaipur, Nagpur (plus pan‑India reach) :contentReference[oaicite:15]{index=15}  
+- Serving banks, PSUs, insurance firms, government bodies, and corporates across India :contentReference[oaicite:16]{index=16}  
+
+---
+
 
 ## 📞 Contact Us
 
