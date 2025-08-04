@@ -17,14 +17,6 @@ Figment Global Solutions Pvt. Ltd. is a leading fintech firm specializing in tax
 
 ---
 
-## 📈 Company Growth
-
-### Clients, Tax Volume & Notices Managed (2021–2025)
-
-![Figment Company Metrics](./figment_readme_graphs.png)
-
----
-
 ## 🧰 What We Offer
 
 - **TaxCPC**: TDS compliance automation
