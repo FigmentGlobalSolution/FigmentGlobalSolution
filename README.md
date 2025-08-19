@@ -6,7 +6,7 @@
 
 ## 🌐 Overview
 
-Figment Global Solutions Pvt. Ltd. is a leading fintech firm specializing in tax compliance automation for banks, PSUs, insurance firms, and corporates. Founded in 2012 and headquartered in Nagpur, India, we deliver expert solutions via proprietary platforms like:
+Figment Global Solutions Pvt Ltd is a leading fintech firm specializing in tax compliance automation for banks, PSUs, insurance firms, and corporates. Founded in 2012 and headquartered in Nagpur, India, we deliver expert solutions via proprietary platforms like:
 
 - TaxCPC
 - NoticeCPC
