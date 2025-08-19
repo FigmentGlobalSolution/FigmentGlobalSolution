@@ -1,6 +1,6 @@
 # Figment Global Solutions Pvt. Ltd.
 
-**Empowering Businesses with Tech‑Enabled Tax Compliance**
+**Empowering Businesses with Tech‑Enabled Tax Compliance Solutions**
 
 ---
 
