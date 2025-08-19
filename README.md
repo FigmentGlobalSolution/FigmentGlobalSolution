@@ -20,7 +20,7 @@ Figment Global Solutions Pvt. Ltd. is a leading fintech firm specializing in tax
 ## 🧰 What We Offer
 
 - **TaxCPC**: TDS compliance automation
-- **NoticeCPC**: Real-time notice tracking across ITD, GST, AIS, Insight
+- **NoticeCPC**: Real-time notice tracking across ITD, GST, AIS, TDS Insight
 - **GSTCPC**: GST reconciliation and filings
 - **26ASCPC**: Consolidated 26AS review for enterprises
 - **VenCPC**: Vendor compliance for finance departments
